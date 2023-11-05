@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
+
+$--font-classic: 'Chakra Petch', sans-serif;
+
+.main__h1 {
+  font-family: $--font-classic;
+  font-weight: 700;
+}
