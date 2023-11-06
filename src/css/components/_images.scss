@@ -1,0 +1,28 @@
+.main__img--all {
+  height: 18em;
+  width: auto;
+  border-radius: 10px;
+}
+
+.main__img {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 35px;
+  margin-left: -100px;
+  &--1 {
+    rotate: 5deg;
+  }
+  &--2 {
+    rotate: -5deg;
+  }
+  &--3 {
+    rotate: 5deg;
+  }
+  &--4 {
+    rotate: 5deg;
+  }
+  &--5 {
+    rotate: -5deg;
+  }
+}
